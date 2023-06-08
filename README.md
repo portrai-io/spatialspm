@@ -1,2 +1,25 @@
-# spatialspm
-SpatialSPM
+# SpatialSPM App
+
+The SpatialSPM App is a tool developed to analyze and compare gene expression patterns in spatial transcriptomic (ST) data. It overcomes the challenge of comparing spatial gene expression patterns between different samples by reconstructing the data into image format and performing spatial registration.
+
+
+The SpatialSPM App enables the analysis of gene expression patterns in spatial transcriptomic (ST) data. By reconstructing the data into image format and incorporating spatial registration, it allows for direct comparison of gene expression across different samples. The app produces statistical parametric maps to identify significantly different regions between samples, providing insights into spatial expression patterns in various biological conditions.
+
+## How to Use
+
+1. Clone the repository: `git clone https://github.com/example/spatialspm-app.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open the `Imagizer_hvg_example.py` file for an example implementation.
+4. Customize input parameters and paths for your ST dataset.
+5. Run the script: `python Imagizer_hvg_example.py`
+
+Refer to the documentation or contact the SpatialSPM App developers for further assistance.
+
+## Acknowledgments
+
+## Reference
+Please cite ___________________
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
