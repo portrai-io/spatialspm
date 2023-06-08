@@ -1,0 +1,11 @@
+dipy==1.4.1
+scanorama==1.7.1
+scanpy==1.9.3
+scikit-image==0.18.0
+scikit-learn==1.0.1
+scipy==1.5.4
+pandas==1.2.0
+numpy==1.23.0
+opencv-python==4.5.2.54
+matplotlib==3.7.1
+json5==0.9.5
