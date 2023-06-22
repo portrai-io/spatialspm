@@ -10,7 +10,7 @@ The SpatialSPM App enables the analysis of gene expression patterns in spatial t
 1. Clone the repository: `git clone https://github.com/example/spatialspm-app.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Download ST data to './Buzzi_HemeHpx' from GSE182127 as a sample data
-4. Run the script: `python Imagizer_hvg_example.ipynb`
+4. Run `Imagizer_hvg_example.ipynb` notebook
 
 Refer to the documentation or contact the SpatialSPM App developers for further assistance.
 
