@@ -17,7 +17,7 @@ Refer to the documentation or contact the SpatialSPM App developers for further 
 ## Acknowledgments
 
 ## Reference
-Please cite ___________________
+Please cite "Ohn J, Seo MK, Park J, Lee D, Choi H. SpatialSPM: Statistical parametric mapping for the comparison of gene expression pattern images in multiple spatial transcriptomic datasets. bioRxiv. 2023:2023-06."
 
 ## License
 
