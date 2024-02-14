@@ -1,7 +1,7 @@
 
 ![image](https://github.com/portrai-io/spatialspm/assets/103564171/bc4125d6-81d0-4b89-bfee-08e8212df032)
 
-# SpatialSPM App
+# SpatialSPM 
 
 The SpatialSPM App is a tool developed to analyze and compare gene expression patterns in spatial transcriptomic (ST) data. It overcomes the challenge of comparing spatial gene expression patterns between different samples by reconstructing the data into image format and performing spatial registration.
 
