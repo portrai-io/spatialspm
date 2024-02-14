@@ -52,6 +52,8 @@ def spatial_imagizer(t_features, img, pd_coord_tissue, imscale, radius = 10, pos
     rv = norm(loc = 0, scale = radius/val) #95% at radius
     for rr, cc,t in zip(tsimg_row, tsimg_col,t_features):
         r, c = draw.disk((rr, cc), radius = radius)
+        r= np.clip(r, None, tsimg.shape[0]-1)
+        c= np.clip(c, None, tsimg.shape[1]-1)
         if posonly:
             if t>0:
                 dt = ((r-rr)**2+(c-cc)**2)**0.5
